@@ -5,9 +5,9 @@ Imagine You have lots of places to visit, yet no idea HOW to visit them...
 <br>
 <br>
 ...**RoutePlanner** can lend You a helping hand!
-It gets travel times between given addresses via public transport from GoogleMaps API, then finds the shortest (more or less) route.
+It gets travel times between given addresses via public transport from GoogleMaps API, finds the shortest (more or less) route and then prints directions.
 <br>
-Maybe in some distant future it will show a map with given points & drawn lines...or maybe it will print instructions on how to travel.
+Maybe in some distant future it will show a map with given points & drawn lines...
 
 For now it's mainly a mean of having fun with GoogleMaps API.
 
